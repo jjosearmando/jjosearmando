@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">• Estudante de tecnologia e informação- UFERSA.</h2>
+<h2 align="left">• Estudante de Tecnologia da Informação-UFERSA.</h2>
 
 ###
 
